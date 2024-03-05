@@ -1,0 +1,35 @@
+{
+  "name": "tahu-bulat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://t.me/acerift",
+  "repository": {
+    "url": "https://github.com/wdserverr/tahu-bulat.git"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "tahu",
+    "asw",
+    "bulat"
+  ],
+  "author": "acerift",
+  "license": "ISC",
+  "dependencies": {
+    "acerift-garaps-tea": "^1.0.0",
+    "acerift-garap-tea": "^1.0.1",
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
